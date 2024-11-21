@@ -1,0 +1,14 @@
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\bin\Debug\net8.0\Exercice7_enumeration.exe
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\bin\Debug\net8.0\Exercice7_enumeration.deps.json
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\bin\Debug\net8.0\Exercice7_enumeration.runtimeconfig.json
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\bin\Debug\net8.0\Exercice7_enumeration.dll
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\bin\Debug\net8.0\Exercice7_enumeration.pdb
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\Exercice7_enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\Exercice7_enumeration.AssemblyInfoInputs.cache
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\Exercice7_enumeration.AssemblyInfo.cs
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\Exercice7_enumeration.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\Exercice7_enumeration.dll
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\refint\Exercice7_enumeration.dll
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\Exercice7_enumeration.pdb
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\Exercice7_enumeration.genruntimeconfig.cache
+C:\Users\sasha\Exercice7_enumeration\Exercice7_enumeration\obj\Debug\net8.0\ref\Exercice7_enumeration.dll
